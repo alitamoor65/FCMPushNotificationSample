@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FCMpushNotification</string>
+    <string name="msg_token_fmt">Your token is %1$s</string>
+    <string name="default_notification_channel_name" translatable="true">Weather</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="fcm_message">FCM Message</string>
+
+</resources>
